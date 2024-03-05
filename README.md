@@ -15,13 +15,14 @@
 - 📫 Here's how you can reach me: [Twitter](https://twitter.com/amankathait6) | [LinkedIn](https://www.linkedin.com/in/amanak15/)
 - 🤘 Here are my Open Source contributions so far: I keep building projects and tutorials, here are some
   - [Telegram Group Sentiment Analysis](https://github.com/AmanKathait15/telegram-group-sentiment-analysis)
-  - [Twitter Data Pipeline using Airflow]()
+  - [Twitter Data Pipeline using Airflow](https://github.com/AmanKathait15/twitter-airflow-pipeline)
   - [T20 Cricket World Cup Analysis](https://github.com/AmanKathait15/Cricket_World_Cup_Analysis)
 
 - My Certifications and Courses
   - [Elements of AI course](https://certificates.mooc.fi/validate/kmpb6ogz4ng)
   - [Deep Learning A-Z Course](https://www.udemy.com/certificate/UC-a86e6d33-9b2b-415d-bccc-fd0f4298e3ac/)
   - [Python Certificate](https://www.hackerrank.com/certificates/dd8a1c08c43d)
+  - [SQL Certificate](https://www.sololearn.com/Certificate/1060-5001162/pdf/)
   - [Problem Solving](https://www.hackerrank.com/certificates/0de309634c89)
   - [Cybersecurity Essential](https://drive.google.com/file/d/1euGRiPenZK00IcZ595uk8q4bA3mDBzhF/view?usp=sharing)
   
