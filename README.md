@@ -22,7 +22,8 @@
   - [Elements of AI course](https://certificates.mooc.fi/validate/kmpb6ogz4ng)
   - [Deep Learning A-Z Course](https://www.udemy.com/certificate/UC-a86e6d33-9b2b-415d-bccc-fd0f4298e3ac/)
   - [Python Certificate](https://www.hackerrank.com/certificates/dd8a1c08c43d)
-  - [SQL Certificate](https://www.sololearn.com/Certificate/1060-5001162/pdf/)
+  - [SQL Certificate](https://www.hackerrank.com/certificates/d26249b422e2)
+  - [JAVA Certificate](https://www.hackerrank.com/certificates/de0662f9c4fc)
   - [Problem Solving](https://www.hackerrank.com/certificates/0de309634c89)
   - [Cybersecurity Essential](https://drive.google.com/file/d/1euGRiPenZK00IcZ595uk8q4bA3mDBzhF/view?usp=sharing)
   
